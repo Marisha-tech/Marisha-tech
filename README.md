@@ -12,10 +12,9 @@ I like
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-
+![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript)
 ![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix)
-![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=Wordpress)
+![Wordpress](https://img.shields.io/badge/-WP-090909?style=for-the-badge&logo=Wordpress)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
