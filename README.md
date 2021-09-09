@@ -1,6 +1,6 @@
 ## Hello, I'm Marisha-tech
 
-### I'm fullstack web developer for CMS Bitrix
+### I'm fullstack web developer
 
 I like
 - :cherry_blossom: flowers
@@ -13,6 +13,7 @@ I like
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+
 ![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-090909?style=for-the-badge&logo=Wordpress)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
