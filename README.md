@@ -2,7 +2,6 @@
 
 ### I'm fullstack web developer for CMS Bitrix
 
-
 I like
 - :cherry_blossom: flowers
 - :books: books
