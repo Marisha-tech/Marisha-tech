@@ -15,6 +15,7 @@ I like
 ![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript)
 ![Bitrix](https://img.shields.io/badge/-Bitrix-090909?style=for-the-badge&logo=Bitrix)
 ![Wordpress](https://img.shields.io/badge/-WP-090909?style=for-the-badge&logo=Wordpress)
+![Angular2+](https://img.shields.io/badge/-Angular2+-090909?style=for-the-badge&logo=Angular2+)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
