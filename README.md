@@ -1,6 +1,8 @@
 ## Hello, I'm Marina Chernogorova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Welcome to my page!
 
-### I'm fullstack web developer
+I'm Marina, Fullstack developer from  Novosibirsk, Russia.
+
 
 I like
 - :cherry_blossom: flowers
