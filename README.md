@@ -1,4 +1,4 @@
-## Hello, I'm Marisha-tech
+## Hello, I'm Marina Chernogorova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm fullstack web developer
 
