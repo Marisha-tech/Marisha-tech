@@ -23,6 +23,9 @@ I like
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=GULP)
 
+###Сertificates
+https://www.freecodecamp.org/certification/marina-chernogorova/javascript-algorithms-and-data-structures
+
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/marisha_tech)
 
