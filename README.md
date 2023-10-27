@@ -1,13 +1,13 @@
 ## Hello, I'm Marina Chernogorova <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">-->
 Welcome to my page!
 
-I'm Marina, Fullstack developer from  Novosibirsk, Russia.
+I'm Marina, Fronted Developer.
 
 
 I like
 - :cherry_blossom: flowers
 - :books: books
-- :bicyclist: bicyclist
+- :bicyclist: bicycle
 - and coding of course :computer:
 
 ### Languages and Tools
